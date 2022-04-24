@@ -1,16 +1,16 @@
-neighbourhood_group;neighbourhood
-;I Centro Storico
-;III Monte Sacro
-;II Parioli/Nomentano
-;IV Tiburtina
-;IX Eur
-;VIII Appia Antica
-;VII San Giovanni/Cinecittà
-;VI Roma delle Torri
-;V Prenestino/Centocelle
-;XI Arvalia/Portuense
-;XIII Aurelia
-;XII Monte Verde
-;XIV Monte Mario
-;X Ostia/Acilia
-;XV Cassia/Flaminia
+id;neighbourhood
+1;I Centro Storico
+2;III Monte Sacro
+3;II Parioli/Nomentano
+4;IV Tiburtina
+5;IX Eur
+6;VIII Appia Antica
+7;VII San Giovanni/Cinecittà
+8;VI Roma delle Torri
+9;V Prenestino/Centocelle
+10;XI Arvalia/Portuense
+11;XIII Aurelia
+12;XII Monte Verde
+13;XIV Monte Mario
+14;X Ostia/Acilia
+15;XV Cassia/Flaminia
